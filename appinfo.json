@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "craig.nicol@gmail.com",
+    "longName": "TestWatch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "TestWatch",
+    "uuid": "371b432e-6528-4e60-be16-79c368a307fa",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
